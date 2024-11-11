@@ -13920,7 +13920,7 @@
     "id": "markdown-tags",
     "name": "Markdown Tags",
     "author": "John Smith III",
-    "description": "Enhance your documents with custom tags. Use predefined or custom labels, customizable colors, and arrow indicators to visually track tasks and statuses.",
+    "description": "Enhance your documents with tags and arrow tags. Use predefined or custom labels, customizable colors, and arrow indicators to visually track tasks and statuses.",
     "repo": "binarynoir/obsidian-markdown-tags"
 }
 ]
